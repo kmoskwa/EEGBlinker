@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/EEGBlinker">
+        <file alias="DefaultStyle.qss">Resources/DefaultStyle.qss</file>
+    </qresource>
+</RCC>
